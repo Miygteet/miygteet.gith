@@ -42,7 +42,7 @@ export default {
   },
   data() {
     return {
-      initialMoney: 100000000000,
+      initialMoney: 100000000000000000000000000,
     };
   },
   computed: {
